@@ -1,0 +1,3 @@
+[submodule "tools/chunker"]
+	path = tools/chunker
+	url = git@github.com:sbourgeois02/chunker.git
